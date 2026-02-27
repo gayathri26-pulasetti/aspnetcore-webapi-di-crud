@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<Customers>
+  <Customer>
+    <Custid>103</Custid>
+    <Name>David</Name>
+    <Balance>45000</Balance>
+    <City>Bengaluru</City>
+    <Status>True</Status>
+  </Customer>
+  <Customer>
+    <Custid>104</Custid>
+    <Name>Sofia</Name>
+    <Balance>55000</Balance>
+    <City>Mumbai</City>
+    <Status>True</Status>
+  </Customer>
+  <Customer>
+    <Custid>105</Custid>
+    <Name>Steve</Name>
+    <Balance>250</Balance>
+    <City>Chennai</City>
+    <Status>True</Status>
+  </Customer>
+  <Customer>
+    <Custid>106</Custid>
+    <Name>John</Name>
+    <Balance>20000</Balance>
+    <City>Delhi</City>
+    <Status>True</Status>
+  </Customer>
+  <Customer>
+    <Custid>101</Custid>
+    <Name>Gayathri </Name>
+    <Balance>50000</Balance>
+    <City>Nuzvid</City>
+    <Status>True</Status>
+  </Customer>
+</Customers>
