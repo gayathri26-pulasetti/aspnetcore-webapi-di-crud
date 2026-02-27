@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp\\CoreWebApiConsumer1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9390093E-460E-84BD-E74C-54E85DBA3708}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|d:\\asp\\corewebapiconsumer1\\corewebapiconsumer1\\controllers\\testapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9390093E-460E-84BD-E74C-54E85DBA3708}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|solutionrelative:corewebapiconsumer1\\controllers\\testapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9390093E-460E-84BD-E74C-54E85DBA3708}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|d:\\asp\\corewebapiconsumer1\\corewebapiconsumer1\\views\\testapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9390093E-460E-84BD-E74C-54E85DBA3708}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|solutionrelative:corewebapiconsumer1\\views\\testapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9390093E-460E-84BD-E74C-54E85DBA3708}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|d:\\asp\\corewebapiconsumer1\\corewebapiconsumer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9390093E-460E-84BD-E74C-54E85DBA3708}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|solutionrelative:corewebapiconsumer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9390093E-460E-84BD-E74C-54E85DBA3708}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|d:\\asp\\corewebapiconsumer1\\corewebapiconsumer1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9390093E-460E-84BD-E74C-54E85DBA3708}|CoreWebApiConsumer1\\CoreWebApiConsumer1.csproj|solutionrelative:corewebapiconsumer1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Program.cs",
+              "RelativeDocumentMoniker": "CoreWebApiConsumer1\\Program.cs",
+              "ToolTip": "D:\\Asp\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Program.cs",
+              "RelativeToolTip": "CoreWebApiConsumer1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:08:47.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Asp\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreWebApiConsumer1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Asp\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreWebApiConsumer1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:04:34.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Views\\TestApi\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreWebApiConsumer1\\Views\\TestApi\\Index.cshtml",
+              "ToolTip": "D:\\Asp\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Views\\TestApi\\Index.cshtml",
+              "RelativeToolTip": "CoreWebApiConsumer1\\Views\\TestApi\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T06:45:51.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestApiController.cs",
+              "DocumentMoniker": "D:\\Asp\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Controllers\\TestApiController.cs",
+              "RelativeDocumentMoniker": "CoreWebApiConsumer1\\Controllers\\TestApiController.cs",
+              "ToolTip": "D:\\Asp\\CoreWebApiConsumer1\\CoreWebApiConsumer1\\Controllers\\TestApiController.cs",
+              "RelativeToolTip": "CoreWebApiConsumer1\\Controllers\\TestApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:45:35.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
