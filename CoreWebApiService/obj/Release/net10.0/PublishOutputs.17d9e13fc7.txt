@@ -1,0 +1,13 @@
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\CoreWebApiService.exe
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\appsettings.json
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\dotnet-tools.json
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\CoreWebApiService.dll
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\CoreWebApiService.deps.json
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\CoreWebApiService.runtimeconfig.json
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\CoreWebApiService.pdb
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Asp\CoreWebApiService\CoreWebApiService\obj\Release\net10.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
